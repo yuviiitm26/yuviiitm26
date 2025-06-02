@@ -31,14 +31,12 @@
 
 Here are some cool things I've built:
 
-- 🔧 [AI Hybrid Agent (SQL + Docs + CoT)](https://github.com/yuviiitm26/your-hybrid-agent-repo)  
+- 🔧 [AI Hybrid Agent (SQL + Docs + CoT)]([https://github.com/yuviiitm26/your-hybrid-agent-repo](https://github.com/yuviiitm26/Syngenta_AI_agent_hackathon.git))  
   ➤ LangChain, FAISS, Claude/Gemini, Streamlit interface for smart business insights.
 
-- 📊 [Sales & Inventory Analytics Dashboard](https://github.com/yuviiitm26/sales-dashboard-friends-autocare)  
+- 📊 [Sales & Inventory Analytics Dashboard]
   ➤ Final project using Excel + Streamlit to improve decision-making for a local business.
 
-- 🌐 [AI Resume Website](https://github.com/yuviiitm26/ai-resume-site)  
-  ➤ Frontend in Vue.js + Python backend with smart suggestions.
 
 > Want to collaborate? Open an issue or DM me on LinkedIn!
 
