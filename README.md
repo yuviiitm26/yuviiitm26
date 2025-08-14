@@ -16,7 +16,7 @@
   - 🔗 [LinkedIn]([https://www.linkedin.com/in/yuvrajgosain](https://www.linkedin.com/in/yuvraj-gosain-b542a3250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
   - 🌐 Portfolio Website: [Coming Soon]  
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I come from a village with a humble background. I'm driven by a passion for innovation and aim to either build a successful AI startup or secure a top AI role at a leading tech company.
+- ⚡ Fun fact: I can sleep whole day.
 
 ---
 
