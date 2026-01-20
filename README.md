@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Yuvraj Gosain (@yuviiitm26)
+# 👋 Hi, I’m Yuvraj Gosain
 
 **Data Scientist and Full-Stack Developer** | **GenAI & RAG Specialist**
 
