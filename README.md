@@ -62,7 +62,7 @@
 * [cite_start]📧 **Email:** [yuvraj.gosain2003@gmail.com](mailto:yuvraj.gosain2003@gmail.com) [cite: 2]
 * [cite_start]🔗 **LinkedIn:** [linkedin.com/in/yuvrajgosain](https://linkedin.com/in/yuvrajgosain) [cite: 2]
 * [cite_start]💻 **GitHub:** [github.com/yuviiitm26](https://github.com/yuviiitm26) [cite: 2]
-* [cite_start]💻 **website:** [[github.com/yuviiitm26](https://github.com/yuviiitm26/portfolio) [cite: 2]
+* [cite_start]💻 **website:** [yuviiitm26.github.io/portfolio/](https://yuviiitm26.github.io/portfolio/) [cite: 2]
 
 ---
 
