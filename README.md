@@ -1,62 +1,73 @@
-# 👋 Hi, I’m Yuvraj Gosain
+# 👋 Hi, I’m Yuvraj Gosain (@yuviiitm26)
 
-[cite_start]👀 **I’m a Data Scientist and Full-Stack Developer** with a strong foundation in **Generative AI, Deep Generative Models (DGM), and RAG architectures**.
+**Data Scientist and Full-Stack Developer** | **GenAI & RAG Specialist**
 
-[cite_start]🌱 I’m currently pursuing a **BS in Data Science and Applications** from **IIT Madras** (2026 batch)[cite: 10, 11].
+[cite_start]I am a **Data Scientist and Full-Stack Developer** with a strong foundation in **Generative AI, Deep Generative Models (DGM), RAG architectures, and Machine Learning**[cite: 6]. [cite_start]I have a proven ability to build hybrid AI agents and scalable web applications using **Python, Vue.js, and SQL**[cite: 7].
 
-💻 **I’m currently building:**
-* [cite_start]**Hybrid AI Agents** that combine SQL, Document Q&A, and Chain of Thought reasoning[cite: 6, 20].
-* [cite_start]**Scalable Web Applications** using Python, Vue.js, and SQL[cite: 7].
+* [cite_start]🌱 I’m currently pursuing a **Bachelor of Science in Data Science and Applications** at the **Indian Institute of Technology Madras** (Expected 2026)[cite: 10, 11, 16].
+* [cite_start]🔭 I specialize in deploying complex models and optimizing system performance[cite: 8].
+* 👯 I’m looking to collaborate on **AI agents, intelligent automation tools, and Open-source ML/LLM projects**.
 
-💞️ **I’m looking to collaborate on:**
-* AI agents and intelligent automation tools.
-* Open-source ML/LLM projects and AI hackathons.
-* Streamlit or React-based data dashboards.
+---
 
-📫 **Reach me at:**
-* [cite_start]📧 yuvraj.gosain2003@gmail.com [cite: 2]
-* [cite_start]🔗 [LinkedIn](https://linkedin.com/in/yuvrajgosain) [cite: 2]
-* 🌐 Portfolio Website: (https://yuviiitm26.github.io/portfolio/)
+## 🛠️ Technical Skills
 
-😄 **Pronouns:** He/Him
-⚡ **Fun fact:** I can sleep whole day.
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | [cite_start]Python, JavaScript, Java, SQL, HTML/CSS [cite: 13] |
+| **AI/ML & GenAI** | [cite_start]RAG, LangChain, Transformers, LLMs (GPT/Llama), Deep Learning, PyTorch, TensorFlow, Agents, Deep Generative Models (DGM) [cite: 17] |
+| **Web & Frameworks** | [cite_start]Vue.js, Flask, FastAPI, Streamlit, Node.js, React [cite: 14] |
+| **Tools & Databases** | [cite_start]Docker, Git, PostgreSQL, Redis, Vector DBs (FAISS/Pinecone), Spark [cite: 18] |
 
 ---
 
 ## 🚀 Featured Projects
 
-Here are some cool things I've built:
-
-### 🔧 **Hybrid AI Agent**
-* [cite_start]**Tech:** Claude 3.5, SQL, RAG, Python, FAISS, Streamlit [cite: 20]
-* Built an intelligent agent answering queries via hybrid reasoning over SQL databases and unstructured documents. [cite_start]Features dynamic query classification and automatic SQL generation[cite: 22, 23].
+### 🤖 **Hybrid AI Agent**
+*May 2025*
+* [cite_start]**Stack:** Claude 3.5, SQL, RAG, Python, FAISS, Streamlit [cite: 20]
+* [cite_start]Built an intelligent agent capable of answering queries via hybrid reasoning over SQL databases and unstructured documents[cite: 22].
+* [cite_start]Enabled dynamic query classification and automatic SQL generation with retry mechanisms[cite: 23].
+* [cite_start]Implemented real-time performance tracking with a user-friendly Streamlit interface[cite: 24].
 
 ### 🏥 **Senior Care App (Full-Stack)**
-* [cite_start]**Tech:** Flask, Vue.js, REST APIs, SQL, RAG [cite: 25]
-* [cite_start]A platform for senior citizens featuring medication management, emergency alerts, and AI-based medical report analysis with chatbot support[cite: 27, 29].
+*Jun 2025 – Aug 2025*
+* [cite_start]**Stack:** Flask, Vue.js, REST APIs, SQL, RAG [cite: 25, 26]
+* [cite_start]Built a comprehensive platform for senior citizens featuring medication management and emergency alerts[cite: 27].
+* [cite_start]Designed REST APIs and handled authentication and database logic as the Backend Lead[cite: 28].
+* [cite_start]Integrated AI-based medical report analysis and conversational chatbot support[cite: 29].
 
 ### 🛡️ **System-Threat-Forecaster (ML for Cybersecurity)**
-* [cite_start]**Tech:** Python, XGBoost, SVM [cite: 30]
-* [cite_start]Developed predictive models for malware infection risk using telemetry data, achieving strong accuracy via feature engineering[cite: 30, 31].
+*Feb 2025 – Apr 2025*
+* [cite_start]**Stack:** Python, XGBoost, SVM [cite: 30, 32]
+* [cite_start]Developed predictive models for malware infection risk using telemetry data[cite: 30].
+* [cite_start]Achieved strong accuracy via feature engineering and ensemble methods[cite: 31].
 
 ### 🧹 **Swach Seva (Household Services Platform)**
-* [cite_start]**Tech:** Vue.js, Python, Flask [cite: 33]
-* [cite_start]Built a full-stack platform connecting households with verified service professionals, focusing on UI performance and scalability[cite: 33, 34].
+*Oct 2024 – Apr 2025*
+* [cite_start]**Stack:** Vue.js, Python, Flask [cite: 33, 37]
+* [cite_start]Built a full-stack platform connecting households with verified service professionals[cite: 33].
+* [cite_start]Delivered two optimized iterations improving UI performance and scalability[cite: 34].
 
 ### 📊 **Business Analytics (Friends Autocare)**
-* [cite_start]**Tech:** Python, SQL, Excel [cite: 35]
-* [cite_start]Analyzed showroom sales data to identify demand drops and operational gaps, delivering a detailed analytics report for data-driven decision-making[cite: 35, 36].
+*Feb 2025 – Apr 2025*
+* [cite_start]**Stack:** Python, SQL, Excel [cite: 35, 38]
+* [cite_start]Analyzed showroom sales data to identify demand drops and operational gaps[cite: 35].
+* [cite_start]Delivered a 20-page analytics report enabling data-driven business decisions[cite: 36].
 
 ---
 
-## 🧰 Technical Skills
+## 📫 Connect with Me
 
-* [cite_start]**Languages:** Python, JavaScript, Java, SQL, HTML/CSS [cite: 13]
-* [cite_start]**AI/ML & GenAI:** RAG, LangChain, Transformers, LLMs (GPT/Llama), Deep Learning, PyTorch, TensorFlow, Agents, Deep Generative Models (DGM) [cite: 17]
-* [cite_start]**Frameworks/Web:** Vue.js, Flask, FastAPI, Streamlit, Node.js, React [cite: 14]
-* [cite_start]**Tools & DBs:** Docker, Git, PostgreSQL, Redis, Vector DBs (FAISS/Pinecone), Spark [cite: 18]
+* [cite_start]📧 **Email:** [yuvraj.gosain2003@gmail.com](mailto:yuvraj.gosain2003@gmail.com) [cite: 2]
+* [cite_start]🔗 **LinkedIn:** [linkedin.com/in/yuvrajgosain](https://linkedin.com/in/yuvrajgosain) [cite: 2]
+* [cite_start]💻 **GitHub:** [github.com/yuviiitm26](https://github.com/yuviiitm26) [cite: 2]
+* [cite_start]💻 **website:** [[github.com/yuviiitm26](https://github.com/yuviiitm26/portfolio) [cite: 2]
 
 ---
 
-🧠 *"Learn. Build. Iterate. Achieve."*
-Let’s change the world with AI—one project at a time.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yuviiitm26&show_icons=true&theme=radical" alt="Yuvraj's GitHub Stats" />
+  <br/>
+  🧠 <i>"Learn. Build. Iterate. Achieve."</i>
+</div>
