@@ -1,29 +1,25 @@
-# 👋 Hi, I’m Yuvraj Gosain (@yuviiitm26)
+# 👋 Hi, I’m Yuvraj Gosain
 
-- 👀 I’m interested in Artificial Intelligence, Machine Learning, Data Science, and AGI research.  
-- 🌱 I’m currently pursuing the BS in Data Science and Applications from IIT Madras (2026 batch).  
-- 💻 I’m building AI Agents that combine **SQL + Document Q&A + Chain of Thought reasoning**, using tools like **LangChain, FAISS, Streamlit, and Claude/Gemini APIs**.  
-- 📊 My recent project focused on **sales performance improvement, customer segmentation, and inventory optimization** for a local business (`Friends Autocare`).  
-- 🚀 I'm also building:
-  - A full-stack **AI-powered resume website** using Vue.js + Python  
-  - An **AI Business Analytics Tool** for SMEs as a side hustle  
-- 💞️ I’m looking to collaborate on:
-  - AI agents and intelligent automation tools  
-  - Streamlit or React-based data dashboards  
-  - Open-source ML/LLM projects and AI hackathons  
-- 📫 Reach me at:  
-  - 📧 yuvraj.gosain2003@gmail.com  
-  - 🔗 [LinkedIn]([https://www.linkedin.com/in/yuvrajgosain](https://www.linkedin.com/in/yuvraj-gosain-b542a3250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
-  - 🌐 Portfolio Website: [Coming Soon]  
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I can sleep whole day.
+[cite_start]👀 **I’m a Data Scientist and Full-Stack Developer** with a strong foundation in **Generative AI, Deep Generative Models (DGM), and RAG architectures**.
 
----
+[cite_start]🌱 I’m currently pursuing a **BS in Data Science and Applications** from **IIT Madras** (2026 batch)[cite: 10, 11].
 
-## 📈 GitHub Stats
+💻 **I’m currently building:**
+* [cite_start]**Hybrid AI Agents** that combine SQL, Document Q&A, and Chain of Thought reasoning[cite: 6, 20].
+* [cite_start]**Scalable Web Applications** using Python, Vue.js, and SQL[cite: 7].
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuviiitm26&show_icons=true&theme=radical&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuviiitm26&layout=compact&theme=radical&hide_border=true)
+💞️ **I’m looking to collaborate on:**
+* AI agents and intelligent automation tools.
+* Open-source ML/LLM projects and AI hackathons.
+* Streamlit or React-based data dashboards.
+
+📫 **Reach me at:**
+* [cite_start]📧 yuvraj.gosain2003@gmail.com [cite: 2]
+* [cite_start]🔗 [LinkedIn](https://linkedin.com/in/yuvrajgosain) [cite: 2]
+* 🌐 Portfolio Website: [Coming Soon]
+
+😄 **Pronouns:** He/Him
+⚡ **Fun fact:** I can sleep whole day.
 
 ---
 
@@ -31,44 +27,36 @@
 
 Here are some cool things I've built:
 
-- 🔧 [AI Hybrid Agent (SQL + Docs + CoT)]([https://github.com/yuviiitm26/your-hybrid-agent-repo](https://github.com/yuviiitm26/Syngenta_AI_agent_hackathon.git))  
-  ➤ LangChain, FAISS, Claude/Gemini, Streamlit interface for smart business insights.
+### 🔧 **Hybrid AI Agent**
+* [cite_start]**Tech:** Claude 3.5, SQL, RAG, Python, FAISS, Streamlit [cite: 20]
+* Built an intelligent agent answering queries via hybrid reasoning over SQL databases and unstructured documents. [cite_start]Features dynamic query classification and automatic SQL generation[cite: 22, 23].
 
-- 📊 [Sales & Inventory Analytics Dashboard]
-  ➤ Final project using Excel + Streamlit to improve decision-making for a local business.
+### 🏥 **Senior Care App (Full-Stack)**
+* [cite_start]**Tech:** Flask, Vue.js, REST APIs, SQL, RAG [cite: 25]
+* [cite_start]A platform for senior citizens featuring medication management, emergency alerts, and AI-based medical report analysis with chatbot support[cite: 27, 29].
 
+### 🛡️ **System-Threat-Forecaster (ML for Cybersecurity)**
+* [cite_start]**Tech:** Python, XGBoost, SVM [cite: 30]
+* [cite_start]Developed predictive models for malware infection risk using telemetry data, achieving strong accuracy via feature engineering[cite: 30, 31].
 
-> Want to collaborate? Open an issue or DM me on LinkedIn!
+### 🧹 **Swach Seva (Household Services Platform)**
+* [cite_start]**Tech:** Vue.js, Python, Flask [cite: 33]
+* [cite_start]Built a full-stack platform connecting households with verified service professionals, focusing on UI performance and scalability[cite: 33, 34].
 
----
-
-## 📝 Latest Blog Posts / Articles *(Coming soon)*
-
-<!-- BLOG-POST-LIST:START -->
-- 🚧 Working on launching my blog where I’ll write about building AI agents, LLM prompting, LangChain, and more.
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🧰 Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge)
-![LangChain](https://img.shields.io/badge/-LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
-![FAISS](https://img.shields.io/badge/-FAISS-00599C?style=for-the-badge&logo=vectorworks&logoColor=white)
-![Anthropic Claude](https://img.shields.io/badge/-Claude-222222?style=for-the-badge&logo=anthropic&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+### 📊 **Business Analytics (Friends Autocare)**
+* [cite_start]**Tech:** Python, SQL, Excel [cite: 35]
+* [cite_start]Analyzed showroom sales data to identify demand drops and operational gaps, delivering a detailed analytics report for data-driven decision-making[cite: 35, 36].
 
 ---
 
-> 🧠 *"Learn. Build. Iterate. Achieve."*  
-> Let’s change the world with AI—one project at a time.
+## 🧰 Technical Skills
 
+* [cite_start]**Languages:** Python, JavaScript, Java, SQL, HTML/CSS [cite: 13]
+* [cite_start]**AI/ML & GenAI:** RAG, LangChain, Transformers, LLMs (GPT/Llama), Deep Learning, PyTorch, TensorFlow, Agents, Deep Generative Models (DGM) [cite: 17]
+* [cite_start]**Frameworks/Web:** Vue.js, Flask, FastAPI, Streamlit, Node.js, React [cite: 14]
+* [cite_start]**Tools & DBs:** Docker, Git, PostgreSQL, Redis, Vector DBs (FAISS/Pinecone), Spark [cite: 18]
 
+---
 
-<!---
-yuviiitm26/yuviiitm26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🧠 *"Learn. Build. Iterate. Achieve."*
+Let’s change the world with AI—one project at a time.
