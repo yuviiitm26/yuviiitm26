@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Yuvraj Gosain
 
-**Data Scientist and Full-Stack Developer** | **GenAI & RAG Specialist**
+**Data Scientist and Full-Stack Developer** | **GenAI & RAG **
 
 [cite_start]I am a **Data Scientist and Full-Stack Developer** with a strong foundation in **Generative AI, Deep Generative Models (DGM), RAG architectures, and Machine Learning**[cite: 6]. [cite_start]I have a proven ability to build hybrid AI agents and scalable web applications using **Python, Vue.js, and SQL**[cite: 7].
 
