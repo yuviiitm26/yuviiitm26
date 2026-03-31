@@ -1,12 +1,12 @@
 # 👋 Hi, I’m Yuvraj Gosain
 
-**Data Scientist and Full-Stack Developer** | **GenAI & RAG **
+**Agentic AI & MLOps Specialist** | **Full-Stack Developer**
 
-[cite_start]I am a **Data Scientist and Full-Stack Developer** with a strong foundation in **Generative AI, Deep Generative Models (DGM), RAG architectures, and Machine Learning**[cite: 6]. [cite_start]I have a proven ability to build hybrid AI agents and scalable web applications using **Python, Vue.js, and SQL**[cite: 7].
+I am a **Data Science student at IIT Madras** and a **Full-Stack Developer** specializing in **Agentic AI, MLOps, and RAG architectures**. I have a proven track record of building autonomous multi-agent pipelines, deploying scalable machine learning models to the cloud, and architecting robust backend systems. I am passionate about enterprise-grade AI governance and have been globally recognized in elite hackathons for my solo system design and engineering.
 
-* [cite_start]🌱 I’m currently pursuing a **Bachelor of Science in Data Science and Applications** at the **Indian Institute of Technology Madras** (Expected 2026)[cite: 10, 11, 16].
-* [cite_start]🔭 I specialize in deploying complex models and optimizing system performance[cite: 8].
-* 👯 I’m looking to collaborate on **AI agents, intelligent automation tools, and Open-source ML/LLM projects**.
+* 🌱 I’m currently pursuing a **Bachelor of Science in Data Science and Applications** at the **Indian Institute of Technology Madras** (Expected 2026).
+* 🔭 I specialize in autonomous multi-agent orchestration (AutoGen), deploying complex models via cloud IaC (Azure/AWS), and optimizing scalable web APIs.
+* 👯 I’m looking to collaborate on **Agentic AI workflows, intelligent automation tools, and Open-source MLOps projects**.
 
 ---
 
@@ -14,55 +14,54 @@
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | [cite_start]Python, JavaScript, Java, SQL, HTML/CSS [cite: 13] |
-| **AI/ML & GenAI** | [cite_start]RAG, LangChain, Transformers, LLMs (GPT/Llama), Deep Learning, PyTorch, TensorFlow, Agents, Deep Generative Models (DGM) [cite: 17] |
-| **Web & Frameworks** | [cite_start]Vue.js, Flask, FastAPI, Streamlit, Node.js, React [cite: 14] |
-| **Tools & Databases** | [cite_start]Docker, Git, PostgreSQL, Redis, Vector DBs (FAISS/Pinecone), Spark [cite: 18] |
+| **Languages** | Python, JavaScript, Java, SQL, HTML/CSS |
+| **AI/ML & GenAI** | AutoGen, RAG, LangChain, LLMs (GPT/Claude/Llama), Deep Generative Models (DGM), Scikit-learn, XGBoost, PyTorch |
+| **Cloud & MLOps** | Azure (Bicep/ACI), AWS (S3, SageMaker, Lambda), Docker, Git, MLflow, DVC, Airflow |
+| **Web & Frameworks** | Flask, FastAPI, Vue.js, Streamlit, Node.js, React |
+| **Data Tools & DBs** | PostgreSQL, Redis, Vector DBs (FAISS/Pinecone), Apache Spark |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 **Hybrid AI Agent**
-*May 2025*
-* [cite_start]**Stack:** Claude 3.5, SQL, RAG, Python, FAISS, Streamlit [cite: 20]
-* [cite_start]Built an intelligent agent capable of answering queries via hybrid reasoning over SQL databases and unstructured documents[cite: 22].
-* [cite_start]Enabled dynamic query classification and automatic SQL generation with retry mechanisms[cite: 23].
-* [cite_start]Implemented real-time performance tracking with a user-friendly Streamlit interface[cite: 24].
+### 🤖 **MigratAI (Top 250 Solo Participant, Microsoft Unlock AI Hackathon)**
+* **Stack:** Python, AutoGen, Docker, Azure (Bicep), Checkov
+* Engineered an autonomous multi-agent DevSecOps pipeline using Microsoft AutoGen, selected from an elite talent pool across top IITs/IIMs.
+* Architected a Human-in-the-Loop (HITL) governance framework for automated Checkov security scanning and Azure infrastructure provisioning.
+* Built a self-healing CI/CD architecture capable of containerizing applications and dynamically resolving Azure IaC deployment failures.
 
-### 🏥 **Senior Care App (Full-Stack)**
-*Jun 2025 – Aug 2025*
-* [cite_start]**Stack:** Flask, Vue.js, REST APIs, SQL, RAG [cite: 25, 26]
-* [cite_start]Built a comprehensive platform for senior citizens featuring medication management and emergency alerts[cite: 27].
-* [cite_start]Designed REST APIs and handled authentication and database logic as the Backend Lead[cite: 28].
-* [cite_start]Integrated AI-based medical report analysis and conversational chatbot support[cite: 29].
+### 🧠 **Hybrid AI Agent (Solo, Syngenta Hackathon — Advanced to DS Managerial Round)**
+* **Stack:** Claude 3.5, SQL, RAG, Python, FAISS, Streamlit
+* Architected an intelligent agent for hybrid reasoning over SQL databases and unstructured documents, outperforming peers in an exclusive IIT Madras Data Science competition.
+* Enabled dynamic query classification and automated SQL generation with self-correcting retry mechanisms over complex databases.
+* Implemented real-time performance tracking and deployed a user-friendly conversational interface using Streamlit.
 
-### 🛡️ **System-Threat-Forecaster (ML for Cybersecurity)**
-*Feb 2025 – Apr 2025*
-* [cite_start]**Stack:** Python, XGBoost, SVM [cite: 30, 32]
-* [cite_start]Developed predictive models for malware infection risk using telemetry data[cite: 30].
-* [cite_start]Achieved strong accuracy via feature engineering and ensemble methods[cite: 31].
+### 🛡️ **System-Threat-Forecaster (Academic ML Project)**
+* **Stack:** Python, XGBoost, Scikit-learn, SVM
+* Secured a **top 2% leaderboard rank (30th out of 1,519 participants)** by engineering a predictive model that significantly outperformed the 0.55 baseline cutoff with a score of 0.675.
+* Achieved ~75% predictive accuracy on highly imbalanced, complex telemetry data, demonstrating a practical understanding of real-world model evaluation and tuning to prevent overfitting.
 
-### 🧹 **Swach Seva (Household Services Platform)**
-*Oct 2024 – Apr 2025*
-* [cite_start]**Stack:** Vue.js, Python, Flask [cite: 33, 37]
-* [cite_start]Built a full-stack platform connecting households with verified service professionals[cite: 33].
-* [cite_start]Delivered two optimized iterations improving UI performance and scalability[cite: 34].
+### 🏥 **Senior Care App (Backend Lead)**
+* **Stack:** Flask, Vue.js, REST APIs, SQL, RAG
+* Led backend development and database architecture within a collaborative student team to build a comprehensive senior citizen support platform.
+* Designed robust REST APIs and managed secure user authentication logic to connect Vue.js frontend interfaces with backend services.
+* Integrated a RAG-powered conversational chatbot and AI-driven medical report analysis features directly into the application pipeline.
 
-### 📊 **Business Analytics (Friends Autocare)**
-*Feb 2025 – Apr 2025*
-* [cite_start]**Stack:** Python, SQL, Excel [cite: 35, 38]
-* [cite_start]Analyzed showroom sales data to identify demand drops and operational gaps[cite: 35].
-* [cite_start]Delivered a 20-page analytics report enabling data-driven business decisions[cite: 36].
+---
+
+## 📜 Certifications
+
+* **DeepLearning.AI Advanced AI Series** – Completed a 6-course specialization focused on GenAI application development, LLM orchestration, and RAG architectures.
+* **AWS Cloud Foundations** (Simplilearn Certified) – Familiar with S3, SageMaker, and Lambda deployment.
 
 ---
 
 ## 📫 Connect with Me
 
-* [cite_start]📧 **Email:** [yuvraj.gosain2003@gmail.com](mailto:yuvraj.gosain2003@gmail.com) [cite: 2]
-* [cite_start]🔗 **LinkedIn:** [linkedin.com/in/yuvrajgosain](https://linkedin.com/in/yuvrajgosain) [cite: 2]
-* [cite_start]💻 **GitHub:** [github.com/yuviiitm26](https://github.com/yuviiitm26) [cite: 2]
-* [cite_start]💻 **website:** [yuviiitm26.github.io/portfolio/](https://yuviiitm26.github.io/portfolio/) [cite: 2]
+* 📧 **Email:** [yuvraj.gosain2003@gmail.com](mailto:yuvraj.gosain2003@gmail.com) 
+* 🔗 **LinkedIn:** [linkedin.com/in/yuvrajgosain](https://linkedin.com/in/yuvrajgosain) 
+* 💻 **GitHub:** [github.com/yuviiitm26](https://github.com/yuviiitm26) 
+* 🌐 **Portfolio:** [yuviiitm26.github.io/portfolio/](https://yuviiitm26.github.io/portfolio/) 
 
 ---
 
