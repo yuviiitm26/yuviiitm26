@@ -39,7 +39,7 @@ I am a **Data Science student at IIT Madras** and a **Full-Stack Developer** spe
 ### 🛡️ **System-Threat-Forecaster (Academic ML Project)**
 * **Stack:** Python, XGBoost, Scikit-learn, SVM
 * Secured a **top 2% leaderboard rank (30th out of 1,519 participants)** by engineering a predictive model that significantly outperformed the 0.55 baseline cutoff with a score of 0.675.
-* Achieved ~75% predictive accuracy on highly imbalanced, complex telemetry data, demonstrating a practical understanding of real-world model evaluation and tuning to prevent overfitting.
+
 
 ### 🏥 **Senior Care App (Backend Lead)**
 * **Stack:** Flask, Vue.js, REST APIs, SQL, RAG
