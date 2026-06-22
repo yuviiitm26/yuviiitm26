@@ -31,8 +31,5 @@ I build autonomous multi-agent pipelines and architect robust backend systems.
 ---
 
 ### 📊 GitHub Stats
-<!-- You can uncomment and add your GitHub username below to display dynamic stats -->
-<!-- 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuviiitm26&show_icons=true&theme=radical)
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuviiitm26&layout=compact&theme=radical)
--->
+[![Yuvraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuviiitm26&show_icons=true&theme=radical)](https://github.com/yuviiitm26)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuviiitm26&layout=compact&theme=radical)](https://github.com/yuviiitm26)
