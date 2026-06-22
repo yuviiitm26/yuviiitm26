@@ -15,6 +15,11 @@ I build autonomous multi-agent pipelines and architect robust backend systems.
 ---
 
 ### 🛠️ Technical Arsenal
+**Languages & Core:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**AI & Cloud:**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 * **Languages:** Python, SQL, JavaScript, Java, HTML/CSS
 * **AI & Machine Learning:** AutoGen, RAG, LangChain, LLMs (GPT/Claude/Llama), Scikit-learn, XGBoost, PyTorch
 * **Cloud & DevOps:** Azure (Bicep/ACI), AWS (S3, SageMaker, Lambda), Docker, Git, DVC
